@@ -9,13 +9,13 @@ src="https://camo.githubusercontent.com/01c83210f7feb975ea3b9a852808beb6689425ad
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=simeon-azeh" alt="simeon-azeh" /></a> </p>
 
-- 🔭 I’m currently working on [Sidec](sidecedu.com)
+- 🔭 I’m currently working on [SOREVA]((https://soreva-phi.vercel.app/)), [Bluely] (https://bluely.vercel.app/), [UISIS] (https://uisisgroup.org)
 
-- 🌱 I’m currently learning **Reactjs, React Native, Nextjs**
+- 🌱 I’m currently learning **Nodejs, React Native, Expressjs**
 
 - 👯 I’m looking to collaborate on **frontend and full stack projects**
 
-- 👨‍💻 All of my projects are available at [simeonazeh.com](simeonazeh.com)
+- 👨‍💻 All of my projects are available at [simeonazeh.com](simeonazeh.me)
 
 - 💬 Ask me about **React, HTML, CSS, JS**
 
