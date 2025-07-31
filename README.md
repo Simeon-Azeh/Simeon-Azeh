@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF6E96&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Simeon+Azeh;Frontend+Developer;React+Specialist;UI%2FUX+Enthusiast" alt="Typing SVG" />
   
-  <p>A passionate frontend developer from Cameroon building elegant web solutions</p>
+  <p>A passionate fullstack developer from Cameroon building elegant web and mobile app solutions</p>
   
   <div>
     <a href="https://twitter.com/simeonazeh"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
