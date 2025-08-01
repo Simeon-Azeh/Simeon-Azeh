@@ -31,10 +31,27 @@
 Here are some of the impactful products I’m building or have contributed to:
 
 <div align="center">
-  <a href="https://soreva-phi.vercel.app/"><img src="https://img.shields.io/badge/SOREVA-0F172A?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://bluely.vercel.app/"><img src="https://img.shields.io/badge/Bluely-1DA1F2?style=for-the-badge&logo=react&logoColor=white" /></a>
-  <a href="https://uisisgroup.org"><img src="https://img.shields.io/badge/UISIS-34A853?style=for-the-badge&logo=next.js&logoColor=white" /></a>
-  <a href="https://simeonazeh.me"><img src="https://img.shields.io/badge/See+More+-FF6E96?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://soreva-phi.vercel.app/">
+    <img src="https://img.shields.io/badge/SOREVA-0F172A?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://bluely.vercel.app/">
+    <img src="https://img.shields.io/badge/Bluely-1DA1F2?style=for-the-badge&logo=react&logoColor=white" />
+  </a>
+  <a href="https://uiglgroup.com">
+    <img src="https://img.shields.io/badge/UIGL%20Group-34A853?style=for-the-badge&logo=next.js&logoColor=white" />
+  </a>
+  <a href="https://fakaba.co">
+    <img src="https://img.shields.io/badge/Fakaba.co-4B5563?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://apply.urega.org">
+    <img src="https://img.shields.io/badge/Urega%20Apply-8B5CF6?style=for-the-badge&logo=appveyor&logoColor=white" />
+  </a>
+  <a href="https://planetvanguard.org">
+    <img src="https://img.shields.io/badge/Planet%20Vanguard-14B8A6?style=for-the-badge&logo=planet&logoColor=white" />
+  </a>
+  <a href="https://simeonazeh.me">
+    <img src="https://img.shields.io/badge/See+More-FF6E96?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </div>
 
 ---
