@@ -40,9 +40,7 @@ Here are some of the impactful products I’m building or have contributed to:
   <a href="https://bluely.vercel.app/">
     <img src="https://img.shields.io/badge/Bluely-1DA1F2?style=for-the-badge&logo=react&logoColor=white" />
   </a>
-  <a href="https://fakaba.co">
-    <img src="https://img.shields.io/badge/Fakaba.co-4B5563?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+
 
   <br/><br/>
 
@@ -57,12 +55,15 @@ Here are some of the impactful products I’m building or have contributed to:
   <a href="https://planetvanguard.org">
     <img src="https://img.shields.io/badge/Planet%20Vanguard-14B8A6?style=for-the-badge&logo=planet&logoColor=white" />
   </a>
+    <a href="https://fakaba.co">
+    <img src="https://img.shields.io/badge/Fakaba.co-4B5563?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 
   <br/><br/>
 
   <!-- 🌐 Portfolio -->
   <h3>🌐 Portfolio</h3>
-  <a href="https://simeonazeh.me">
+  <a href="https://simeonazeh.me/portfolio">
     <img src="https://img.shields.io/badge/See+More-FF6E96?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 
@@ -73,17 +74,36 @@ Here are some of the impactful products I’m building or have contributed to:
 ## 🛠 Tech Stack
 
 <div align="center">
+
+  <!-- Frontend -->
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+
+  <!-- Backend -->
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+
+  <!-- Languages -->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+  <!-- Databases -->
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+  <!-- DevOps & Tools -->
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Github%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+
 </div>
+
 
 ---
 
